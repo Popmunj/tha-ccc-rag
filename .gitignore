@@ -6,3 +6,4 @@ venv/
 chat.png
 output.png
 .env
+.DS_Store
