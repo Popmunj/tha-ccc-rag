@@ -1,4 +1,4 @@
-# Simple Thai Legal Multi-Agent, Recursive RAG
+# Thai Legal Multi-Agent, Recursive RAG
 This simple RAG system traverses through the agents below to answer Thai legal questions.
 For now, the used vector store contains only CCC, but it can be easily expanded.
 
