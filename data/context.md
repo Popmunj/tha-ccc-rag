@@ -1,0 +1,5 @@
+1. บรรพ (Book)
+2. ส่วน (Part)
+3. ลักษณะ (Title)
+4. หมวด (Chapter)
+5. มาตรา (Section)
